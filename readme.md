@@ -10,6 +10,7 @@ Semantic information plays a significant role in autonomous vehicles. However, i
 - Yunkai Wang<sup>1</sup>
 - Yanmei Jiao<sup>2</sup>
 - __Rong Xiong__<sup>1</sup>, Corresponding Author, Email: <rxiong@zju.edu.cn>
+
 <sup>1</sup> Hejun Wang, Jiajun Dong, Yunkai Wang, Rong Xiong are with the State Key Laboratory of Industrial Control Technology and Institute of Cyber-Systems and Control, Zhejiang University, Hangzhou, China.
 <sup>2</sup> Yanmei Jiao is with the School of Information Science and Engineering, Hangzhou Normal University, Hangzhou, China.
 <!-- <sup>${\dagger}$</sup> The First Author, Email：<hejun_wang@zju.edu.cn>
