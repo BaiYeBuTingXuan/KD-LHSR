@@ -1,0 +1,3 @@
+average iou: 34.9655250065268
+average cover_rate: 46.112975709733846
+average delta_yaw: 36.01211501814368
