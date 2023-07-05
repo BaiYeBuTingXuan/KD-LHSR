@@ -141,7 +141,7 @@ args = argparser.parse_args()
 data_index = args.data
 
 # 保存总路径
-save_path = './DATASET/CARLA/NoTrafficLightNoNPC/' + str(data_index) + '/'
+save_path = './DATASET/' + str(data_index) + '/'
 
 # 从字典config参数表设置client（到server）
 # 构造函数Client(self,host(IP),port(TCP port),worker_threads)
