@@ -20,6 +20,8 @@ Semantic information plays a significant role in autonomous vehicles. However, i
 <!-- <sup>${\dagger}$</sup> The First Author, Email：<hejun_wang@zju.edu.cn>
 <sup>${\ddagger}$</sup> Corresponding Author, Email: <rxiong@zju.edu.cn> -->
 
+Corresponding paper has been Accepted with RCAR 2023, while not be added to IEEE Xplore yet.
+
 
 ## Deployment
 
